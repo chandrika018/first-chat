@@ -119,7 +119,8 @@ For deployment:
 
 ## 📸 Screenshot
 
-> ![Uploading Screenshot 2026-07-02 222328.png…]()
+<img width="1890" height="903" alt="Screenshot 2026-07-02 222328" src="https://github.com/user-attachments/assets/e8607f7e-a3a6-43cb-8ea6-2e070a3d4b38" />
+
 
 
 
